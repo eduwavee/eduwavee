@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola, soy Eduardo 👋
 
-<!--
-**eduwavee/eduwavee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer Jr. buscando mi primera posicion full-time.
 
-Here are some ideas to get you started:
+Vengo del mundo freelance (mi marca es Sync Solutions), donde construi productos a medida de punta a punta: relevamiento, arquitectura, desarrollo, despliegue y soporte. Ahora busco sumar esa experiencia real a un equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack principal:** React · Next.js · Laravel · PostgreSQL
+**Tambien uso:** Node.js/Express · Python · SQLite · Socket.io · bots de WhatsApp
+
+**Certificacion:** Desarrollador Full Stack — RollingCode
+
+#### Algunos proyectos
+
+• 🐾 ChapiTag — chapitas NFC para mascotas perdidas (Next.js + SQLite)
+• 🤝 AyudaVecino — marketplace de oficios y servicios locales, app (React Native/Expo) + backend (Node/Express/PostgreSQL/Prisma) con chat en tiempo real
+• 💅 Byemi — PWA de control de ingresos para un salon de unas (React + Node/Express)
+• 📅 OnEvent — sistema de gestion de eventos con tickets QR y check-in (Node/Express/Prisma + React)
+
+📫 Contacto: eduwavee@gmail.com · LinkedIn: linkedin.com/in/hector-eduardo-velazques-887767350
