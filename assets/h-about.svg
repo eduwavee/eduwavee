@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img"><style>.t{clip-path:inset(0 100% 0 0);animation:rv 3s steps(18) infinite alternate}@keyframes rv{to{clip-path:inset(0 0 0 0)}}.ln{animation:ln 4s ease-in-out infinite alternate}@keyframes ln{from{transform:translateX(0)}to{transform:translateX(752px)}}</style><rect width="900" height="64" fill="none"/>
+<g font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace"><text x="4" y="38" font-size="30" font-weight="800" fill="#FF1744">/</text>
+<g class="t"><text x="30" y="38" font-size="28" font-weight="800" fill="#FFFFFF" letter-spacing="1">sobre_mi</text>
+<text x="180" y="38" font-size="14" fill="#8A8A8A">· about me</text></g>
+<rect class="k" x="272.0" y="14" width="3" height="28" fill="#FF1744" opacity="0"/></g>
+<rect x="4" y="52" width="892" height="1" fill="#2a2a2a"/><rect class="ln" x="4" y="51" width="140" height="3" fill="#FF1744"/></svg>

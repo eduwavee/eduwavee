@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img"><style>.b{animation:bd 6s linear infinite}@keyframes bd{to{stroke-dashoffset:-2100}}.btn{animation:bt 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes bt{50%{transform:scale(1.05)}}.l1{animation:ap 4s ease-out infinite;animation-delay:0.25s;opacity:0}.l2{animation:ap 4s ease-out infinite;animation-delay:0.5s;opacity:0}.l3{animation:ap 4s ease-out infinite;animation-delay:0.75s;opacity:0}.l4{animation:ap 4s ease-out infinite;animation-delay:1s;opacity:0}.l5{animation:ap 4s ease-out infinite;animation-delay:1.25s;opacity:0}.l6{animation:ap 4s ease-out infinite;animation-delay:1.5s;opacity:0}@keyframes ap{0%{opacity:0}15%,85%{opacity:1}100%{opacity:0}}</style><defs><linearGradient id="gb" x1="0" x2="1"><stop offset="0" stop-color="#0A0A0A"/><stop offset="1" stop-color="#2a0309"/></linearGradient></defs>
+<rect x="2" y="2" width="896" height="216" rx="16" fill="url(#gb)"/>
+<rect class="b" x="2" y="2" width="896" height="216" rx="16" fill="none" stroke="#FF1744" stroke-width="3" stroke-dasharray="200 1900"/>
+<rect x="2" y="2" width="896" height="216" rx="16" fill="none" stroke="#7F0000" stroke-opacity=".5"/>
+<g font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace">
+<text x="44" y="64" font-size="13" fill="#8A8A8A" letter-spacing="3">SYNC SOLUTIONS · PORTFOLIO</text>
+<text x="44" y="112" font-size="38" font-weight="800" fill="#FFFFFF">Sistemas reales,</text>
+<text x="44" y="154" font-size="38" font-weight="800" fill="#FF1744">en producción.</text>
+<g class="btn"><rect x="44" y="172" width="260" height="32" rx="16" fill="#FF1744"/><text x="174" y="193" font-size="14" font-weight="800" fill="#0A0A0A" text-anchor="middle">ABRIR PORTFOLIO →</text></g>
+</g>
+<g transform="translate(560,34)"><rect width="300" height="152" rx="8" fill="#111111" stroke="#FF1744" stroke-opacity=".6"/>
+<rect width="300" height="22" rx="8" fill="#1d1d1d"/><rect y="14" width="300" height="8" fill="#1d1d1d"/>
+<circle cx="14" cy="11" r="4" fill="#FF1744"/><circle cx="28" cy="11" r="4" fill="#5a0000"/><circle cx="42" cy="11" r="4" fill="#3a0000"/>
+<text x="150" y="15" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="9" fill="#8A8A8A" text-anchor="middle">sync-tuc.vercel.app</text>
+<rect class="l1" x="20" y="44" width="150" height="10" rx="5" fill="#FF1744"/><rect class="l2" x="20" y="64" width="240" height="6" rx="3" fill="#333"/>
+<rect class="l3" x="20" y="78" width="200" height="6" rx="3" fill="#333"/>
+<rect class="l4" x="20" y="102" width="68" height="34" rx="5" fill="none" stroke="#FF1744"/><rect class="l5" x="98" y="102" width="68" height="34" rx="5" fill="none" stroke="#FF1744"/><rect class="l6" x="176" y="102" width="68" height="34" rx="5" fill="none" stroke="#FF1744"/></g></svg>

@@ -1,0 +1,2 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img"><style>@keyframes hb{from{stroke-dashoffset:90}to{stroke-dashoffset:-900}}.hb{animation:hb 3.2s linear infinite}</style><path d="M0 20H330L345 20 355 4 368 36 380 20 395 20H520L535 20 545 8 556 32 566 20H900" fill="none" stroke="#7F0000" stroke-width="1.5"/>
+<path class="hb" d="M0 20H330L345 20 355 4 368 36 380 20 395 20H520L535 20 545 8 556 32 566 20H900" fill="none" stroke="#FF1744" stroke-width="2" stroke-dasharray="90 810" stroke-linecap="round"/></svg>

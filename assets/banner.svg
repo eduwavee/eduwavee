@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img"><style>
+.grid{animation:mv 8s linear infinite}@keyframes mv{to{transform:translate(40px,40px)}}
+.scan{animation:sc 5s linear infinite}@keyframes sc{from{transform:translateX(-300px)}to{transform:translateX(1300px)}}
+.p{animation:fl 6s ease-in infinite;opacity:0}.p2{animation-delay:1.2s}.p3{animation-delay:2.4s}.p4{animation-delay:3.6s}.p5{animation-delay:4.8s}
+@keyframes fl{0%{opacity:0;transform:translateY(0)}20%{opacity:.9}100%{opacity:0;transform:translateY(-230px)}}
+.gr{animation:g1 4s infinite}
+@keyframes g1{0%,88%,100%{transform:translate(0,0);opacity:0}90%{transform:translate(-5px,2px);opacity:1}93%{transform:translate(5px,-2px);opacity:1}96%{transform:translate(-3px,0);opacity:1}}
+.dot{animation:bl 1.2s infinite}@keyframes bl{50%{opacity:.15}}
+.cur{animation:bl 1s steps(1) infinite}
+</style>
+<defs>
+<radialGradient id="g" cx="78%" cy="50%" r="65%"><stop offset="0" stop-color="#FF1744" stop-opacity=".35"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FF1744" stroke-opacity=".10"/></pattern>
+<linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#FF1744" stop-opacity="0"/><stop offset=".5" stop-color="#FF1744" stop-opacity=".35"/><stop offset="1" stop-color="#FF1744" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="320" fill="#0A0A0A"/>
+<rect width="1200" height="320" fill="url(#g)"/>
+<g class="grid"><rect x="-40" y="-40" width="1280" height="400" fill="url(#grid)"/></g>
+<rect class="scan" y="0" width="220" height="320" fill="url(#scan)"/>
+<g fill="#FF1744">
+<circle class="p" cx="120" cy="290" r="2"/><circle class="p p2" cx="420" cy="300" r="1.5"/><circle class="p p3" cx="700" cy="295" r="2.5"/><circle class="p p4" cx="980" cy="300" r="1.5"/><circle class="p p5" cx="1120" cy="290" r="2"/>
+</g>
+<rect x="0" y="0" width="1200" height="3" fill="#FF1744"/><rect x="0" y="317" width="1200" height="3" fill="#7F0000"/>
+<g font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace">
+<text x="60" y="78" font-size="16" fill="#8A8A8A">$ ./sync-solutions --start</text>
+<g class="glitch"><text x="60" y="160" font-size="76" font-weight="800" fill="#FF1744" class="gr">EDU VELAZQUES</text>
+<text x="60" y="160" font-size="76" font-weight="800" fill="#FFFFFF" class="gw">EDU VELAZQUES</text></g>
+<text x="62" y="204" font-size="22" fill="#FF1744" letter-spacing="3">FULL STACK DEVELOPER</text>
+<text x="62" y="238" font-size="17" fill="#E5E5E5">code that ships. systems that sell.</text>
+<g transform="translate(62,266)"><rect width="190" height="30" rx="15" fill="none" stroke="#FF1744"/>
+<circle class="dot" cx="20" cy="15" r="5" fill="#FF1744"/><text x="36" y="20" font-size="13" fill="#E5E5E5" font-weight="700">OPEN TO WORK</text></g>
+<text x="270" y="287" font-size="13" fill="#8A8A8A">Sync Solutions · Tucumán, AR</text>
+</g>
+<g transform="translate(700,52)">
+<rect width="440" height="216" rx="10" fill="#111111" stroke="#FF1744" stroke-opacity=".6"/>
+<rect width="440" height="30" rx="10" fill="#1A1A1A"/><rect y="20" width="440" height="10" fill="#1A1A1A"/>
+<circle cx="20" cy="15" r="5" fill="#FF1744"/><circle cx="38" cy="15" r="5" fill="#5a0000"/><circle cx="56" cy="15" r="5" fill="#3a0000"/>
+<text x="220" y="19" font-size="11" fill="#8A8A8A" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" text-anchor="middle">edu@sync:~</text>
+<g font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="14">
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="9s" begin="0s" repeatCount="indefinite"/><text x="20" y="64" fill="#E5E5E5"><tspan fill="#FF1744">❯</tspan> whoami</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="9s" begin="0.9s" repeatCount="indefinite"/><text x="20" y="94" fill="#8A8A8A">  edu · full stack · tucumán</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="9s" begin="1.8s" repeatCount="indefinite"/><text x="20" y="130" fill="#E5E5E5"><tspan fill="#FF1744">❯</tspan> stack --list</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="9s" begin="2.7s" repeatCount="indefinite"/><text x="20" y="160" fill="#8A8A8A">  react · node · laravel · .net</text></g>
+<text x="20" y="196" fill="#FF1744" class="cur">❯ _</text>
+</g></g>
+</svg>
