@@ -1,47 +1,83 @@
-<!-- Repo: eduwavee/eduwavee (el repo debe llamarse igual que tu usuario y ser público) --> <!-- ⚠️ Cambiá TU-PORTFOLIO-URL por la URL real de tu portfolio (2 lugares) --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A0A0A,45:7F0000,100:FF1744&text=SYNC%20%7C%20EDU&fontColor=FFFFFF&fontSize=62&fontAlignY=38&animation=twinkling&stroke=FF1744&strokeWidth=1&desc=code%20that%20ships.%20systems%20that%20sell.&descColor=FF8A80&descSize=18&descAlignY=60" alt="header" width="100%"/> <a href="https://github.com/eduwavee"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=FF1744&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+Edu%2C+full+stack+de+Tucum%C3%A1n;%24+sudo+build+--product+%22end-to-end%22;%24+git+commit+-m+%22funciona+en+producci%C3%B3n%22+%F0%9F%94%A5;%24+status+%E2%86%92+open_to_work+%3D%3D+true;%24+mate+--cebar+%26%26+code+--sin-parar+%F0%9F%A7%89" alt="typing" /> </a>
+<div align="center">
 
-<br/><br/>
+<img src="assets/banner.svg" alt="Edu Velazques — Full Stack Developer" width="100%"/>
 
-Mostrar imagen Mostrar imagen Mostrar imagen
+<a href="https://sync-tuc.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF1744?style=for-the-badge&labelColor=0A0A0A&logo=googlechrome&logoColor=FF1744"/></a>
+<a href="https://wa.me/543814019613"><img src="https://img.shields.io/badge/WHATSAPP-FF1744?style=for-the-badge&labelColor=0A0A0A&logo=whatsapp&logoColor=FF1744"/></a>
+<a href="https://instagram.com/sync.tuc"><img src="https://img.shields.io/badge/@SYNC.TUC-FF1744?style=for-the-badge&labelColor=0A0A0A&logo=instagram&logoColor=FF1744"/></a>
+<a href="mailto:eduwavee@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF1744?style=for-the-badge&labelColor=0A0A0A&logo=gmail&logoColor=FF1744"/></a>
 
-</div> <br/>
-> sobre_mi.md · about me
-bash
+<img src="https://komarev.com/ghpvc/?username=eduwavee&label=VISITAS&color=FF1744&style=flat-square&labelColor=0A0A0A" alt="visitas"/>
+
+<img src="assets/divider.svg" width="100%"/>
+</div>
+
+<img src="assets/h-about.svg" width="100%" alt="sobre mí"/>
+
+```bash
 $ cat edu.txt
 nombre   : Eduardo "Edu" Velazques
-base     : San Miguel de Tucumán 🇦🇷
+base     : San Miguel de Tucumán, Argentina
 marca    : Sync Solutions (freelance)
 hago     : POS · plataformas web · inventarios · bots de WhatsApp · apps mobile
 busco    : mi primer rol full-time como Full Stack
 lema     : no hago demos, hago sistemas que se usan todos los días
+```
 
-🇦🇷 Soy Edu. Con Sync Solutions le armo software real a pymes: sistemas de caja, webs, inventario y bots. Ahora quiero llevar eso a un equipo full-time.
+🇦🇷 Soy Edu. Con **Sync Solutions** le armo software real a pymes: sistemas de caja, webs, inventario y bots. Ahora quiero llevar eso a un equipo full-time.
 
-🇬🇧 I'm Edu. With Sync Solutions I build real software for small businesses: POS systems, web platforms, inventory and bots. Now I want to bring that to a full-time team.
+🇬🇧 I'm Edu. With **Sync Solutions** I build real software for small businesses: POS systems, web platforms, inventory and bots. Now I want to bring that to a full-time team.
 
-<br/>
-> portfolio.exe · mi portfolio
-<div align="center"> <a href="https://TU-PORTFOLIO-URL"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1500&color=FF1744&center=true&vCenter=true&width=640&height=60&lines=%E2%96%B6+ABRIR+MI+PORTFOLIO;%E2%96%B6+SYNC+SOLUTIONS+%E2%80%94+LIVE+SYSTEMS" alt="portfolio" /> </a>
+<img src="assets/h-portfolio.svg" width="100%" alt="portfolio"/>
 
-<a href="https://TU-PORTFOLIO-URL"><img src="https://img.shields.io/badge/VER%20PORTFOLIO%20%E2%86%92-FF1744?style=for-the-badge&labelColor=0A0A0A&logo=googlechrome&logoColor=FF1744" height="42"/></a>
-
+<div align="center">
+<a href="https://sync-tuc.vercel.app"><img src="assets/portfolio.svg" width="100%" alt="Abrir portfolio — sync-tuc.vercel.app"/></a>
 </div>
 
-🇦🇷 Casos reales, sistemas en producción y cómo trabajo con clientes.  ·  🇬🇧 Real cases, production systems and how I work with clients.
+<img src="assets/h-stack.svg" width="100%" alt="stack"/>
 
-<br/>
-> stack.json
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,laravel,python&theme=dark" alt="languages"/> <br/> <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,git,github,vercel,railway,vscode&theme=dark" alt="tools"/> </div> <br/>
-> proyectos/ · featured
+<div align="center">
+<img src="assets/stack.svg" width="100%" alt="stack"/>
+</div>
+
+<img src="assets/h-projects.svg" width="100%" alt="proyectos"/>
+
+<table align="center">
+<tr>
+<td><a href="https://sync-tuc.vercel.app"><img src="assets/card-ventasapp.svg" width="100%"/></a></td>
+<td><a href="https://github.com/eduwavee/ayudavecino-app"><img src="assets/card-ayudavecino.svg" width="100%"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/eduwavee/byemi"><img src="assets/card-byemi.svg" width="100%"/></a></td>
+<td><a href="https://github.com/eduwavee/chapitag"><img src="assets/card-chapitag.svg" width="100%"/></a></td>
+</tr>
+<tr>
+<td><a href="https://sync-tuc.vercel.app"><img src="assets/card-charlys.svg" width="100%"/></a></td>
+<td><a href="https://sync-tuc.vercel.app"><img src="assets/card-barberia.svg" width="100%"/></a></td>
+</tr>
+</table>
+
+<img src="assets/h-stats.svg" width="100%" alt="stats"/>
+
 <div align="center">
 
-<a href="https://github.com/eduwavee/AyudaVecino"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eduwavee&repo=AyudaVecino&hide_border=true&bg_color=0A0A0A&title_color=FF1744&icon_color=FF1744&text_color=E5E5E5" width="48%"/></a> <a href="https://github.com/eduwavee/Byemi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eduwavee&repo=Byemi&hide_border=true&bg_color=0A0A0A&title_color=FF1744&icon_color=FF1744&text_color=E5E5E5" width="48%"/></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eduwavee&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF1744&icon_color=FF1744&text_color=E5E5E5&ring_color=FF1744"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduwavee&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF1744&text_color=E5E5E5"/>
+
+<img src="https://streak-stats.demolab.com?user=eduwavee&hide_border=true&background=0A0A0A&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E5E5E5&dates=8A8A8A" height="170"/>
+
+<img src="https://raw.githubusercontent.com/eduwavee/eduwavee/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 
 </div>
-🔴 Proyecto	Qué hace · What it does
-AyudaVecino	Marketplace React Native: vecinos ↔ oficios locales, chat en vivo, push, perfiles por rol. / Neighbors ↔ local tradespeople marketplace.
-AyudaVecino Backend	API REST: auth, pedidos, reseñas, mensajería. / REST API.
-Byemi	PWA en producción para control de ingresos de un salón. / Production PWA for salon income.
-ChapiTag	Identificación de mascotas con NFC. / NFC pet ID.
-<br/>
-> stats.log
+
+<img src="assets/h-contact.svg" width="100%" alt="contacto"/>
+
+<div align="center">
+
+**¿Tenés un negocio y necesitás un sistema que funcione de verdad?** Escribime.
+
+<a href="https://wa.me/543814019613"><img src="https://img.shields.io/badge/HABLEMOS_POR_WHATSAPP_→-FF1744?style=for-the-badge&labelColor=0A0A0A&logo=whatsapp&logoColor=FF1744" height="42"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0A0A0A,50:7F0000,100:FF1744&animation=twinkling"/>
+
+</div>
