@@ -1,59 +1,47 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2a,50:0e7490,100:164e63&height=200&section=header&text=¡Hola,%20soy%20Eduardo!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Jr%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL&descAlignY=58&descSize=16" width="100%" alt="header" /> <a href="https://github.com/eduwavee"> <img src="https://readme-typing-svg.demolab.com/?lines=Construyo+productos+de+punta+a+punta;React+%C2%B7+Node+%C2%B7+PostgreSQL;Freelance+%E2%86%92+busco+mi+primer+full-time;Bienvenido%2Fa+a+mi+perfil+%F0%9F%91%8B&font=Fira+Code&center=true&width=560&height=45&color=22D3EE&vCenter=true&size=20&pause=1800" alt="typing banner" /> </a> </div> <br> <table align="center" width="100%"> <tr> <td valign="top" width="50%">
-🧠 Sobre mí
-Soy Héctor Eduardo Velazques, desarrollador Full Stack Jr de Tucumán, Argentina 🇦🇷.
+<!-- Repo: eduwavee/eduwavee (el repo debe llamarse igual que tu usuario y ser público) --> <!-- ⚠️ Cambiá TU-PORTFOLIO-URL por la URL real de tu portfolio (2 lugares) --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A0A0A,45:7F0000,100:FF1744&text=SYNC%20%7C%20EDU&fontColor=FFFFFF&fontSize=62&fontAlignY=38&animation=twinkling&stroke=FF1744&strokeWidth=1&desc=code%20that%20ships.%20systems%20that%20sell.&descColor=FF8A80&descSize=18&descAlignY=60" alt="header" width="100%"/> <a href="https://github.com/eduwavee"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=FF1744&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+Edu%2C+full+stack+de+Tucum%C3%A1n;%24+sudo+build+--product+%22end-to-end%22;%24+git+commit+-m+%22funciona+en+producci%C3%B3n%22+%F0%9F%94%A5;%24+status+%E2%86%92+open_to_work+%3D%3D+true;%24+mate+--cebar+%26%26+code+--sin-parar+%F0%9F%A7%89" alt="typing" /> </a>
 
-Vengo del freelance (marca Sync Solutions): llevo productos a medida de principio a fin — relevamiento, arquitectura, desarrollo, deploy y soporte. Ahora busco mi primer rol full-time en un equipo.
+<br/><br/>
 
-🛠️ Productos reales en producción (POS, stock, bots, ANPR)
-⚛️ React / React Native + Node.js como base
-📦 Proyectos propios: marketplace, PWA y SaaS NFC
-🎯 Foco en resolver problemas de negocio, no solo demos
-</td> <td valign="top" width="50%">
-⚡ Datos rápidos
-nombre:      Héctor Eduardo Velazques
-alias:       eduwavee
-rol:         Full Stack Developer Jr
-ubicación:   Tucumán, Argentina
-stack:       React · Node.js · PostgreSQL · TypeScript
-buscando:    Primer rol full-time
-</td> </tr> </table> <br> <div align="center">
-🛠️ Tech Stack
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<br><br>
+Mostrar imagen Mostrar imagen Mostrar imagen
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<br><br>
+</div> <br/>
+> sobre_mi.md · about me
+bash
+$ cat edu.txt
+nombre   : Eduardo "Edu" Velazques
+base     : San Miguel de Tucumán 🇦🇷
+marca    : Sync Solutions (freelance)
+hago     : POS · plataformas web · inventarios · bots de WhatsApp · apps mobile
+busco    : mi primer rol full-time como Full Stack
+lema     : no hago demos, hago sistemas que se usan todos los días
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </div> <br>
-🚀 Proyectos destacados
-<table> <tr> <td width="50%" valign="top">
-🤝 AyudaVecino <br> Marketplace que conecta vecinos con oficios locales: chat en tiempo real, push, reseñas y auth por roles. <br><br> React Native Expo Node PostgreSQL Socket.io <br> + backend
+🇦🇷 Soy Edu. Con Sync Solutions le armo software real a pymes: sistemas de caja, webs, inventario y bots. Ahora quiero llevar eso a un equipo full-time.
 
-</td> <td width="50%" valign="top">
-💅 Byemi <br> PWA de control de ingresos para un salón de uñas, con reparto configurable por profesional. En producción. <br><br> React Vite Node SQLite <br> Live → byemi.vercel.app
+🇬🇧 I'm Edu. With Sync Solutions I build real software for small businesses: POS systems, web platforms, inventory and bots. Now I want to bring that to a full-time team.
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🐾 ChapiTag <br> Chapitas NFC para mascotas perdidas: perfil público al escanear, panel de dueños y admin de lotes. <br><br> Next.js TypeScript SQLite
+<br/>
+> portfolio.exe · mi portfolio
+<div align="center"> <a href="https://TU-PORTFOLIO-URL"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1500&color=FF1744&center=true&vCenter=true&width=640&height=60&lines=%E2%96%B6+ABRIR+MI+PORTFOLIO;%E2%96%B6+SYNC+SOLUTIONS+%E2%80%94+LIVE+SYSTEMS" alt="portfolio" /> </a>
 
-</td> <td width="50%" valign="top">
-🏪 Sync Solutions (clientes) <br> Trabajo freelance real: POS, inventario, bots de WhatsApp, ANPR de patentes y web con AR para comercios. <br><br> React Node PostgreSQL n8n Railway
+<a href="https://TU-PORTFOLIO-URL"><img src="https://img.shields.io/badge/VER%20PORTFOLIO%20%E2%86%92-FF1744?style=for-the-badge&labelColor=0A0A0A&logo=googlechrome&logoColor=FF1744" height="42"/></a>
 
-</td> </tr> </table> <div align="center">
-📁 Más repos en github.com/eduwavee?tab=repositories
+</div>
 
-</div> <br> <div align="center">
-📊 Estadísticas
-<img src="https://github-readme-stats.vercel.app/api?username=eduwavee&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduwavee&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Langs" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduwavee&theme=radical&hide_border=true" alt="GitHub Streak" /> </div> <br>
-🌱 Ahora mismo
-💼 Buscando mi primer full-time como Full Stack Jr
-📱 Cerrando features de AyudaVecino (mapa, pagos, historial)
-🏗️ Mejorando arquitectura y buenas prácticas en proyectos reales
-☁️ Deploy y operación en Railway / Render / Vercel
-<br> <div align="center">
-📫 Contacto
-<a href="mailto:eduv00067@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/hector-eduardo-velazques-887767350/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/eduwavee" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-<br><br>
+🇦🇷 Casos reales, sistemas en producción y cómo trabajo con clientes.  ·  🇬🇧 Real cases, production systems and how I work with clients.
 
-¡Gracias por pasar! Si estás armando un equipo Jr, hablemos 🙌
+<br/>
+> stack.json
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,laravel,python&theme=dark" alt="languages"/> <br/> <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,git,github,vercel,railway,vscode&theme=dark" alt="tools"/> </div> <br/>
+> proyectos/ · featured
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0e7490,100:0b1d2a&height=100&section=footer" width="100%" alt="footer" /> </div>
+<a href="https://github.com/eduwavee/AyudaVecino"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eduwavee&repo=AyudaVecino&hide_border=true&bg_color=0A0A0A&title_color=FF1744&icon_color=FF1744&text_color=E5E5E5" width="48%"/></a> <a href="https://github.com/eduwavee/Byemi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eduwavee&repo=Byemi&hide_border=true&bg_color=0A0A0A&title_color=FF1744&icon_color=FF1744&text_color=E5E5E5" width="48%"/></a>
+
+</div>
+🔴 Proyecto	Qué hace · What it does
+AyudaVecino	Marketplace React Native: vecinos ↔ oficios locales, chat en vivo, push, perfiles por rol. / Neighbors ↔ local tradespeople marketplace.
+AyudaVecino Backend	API REST: auth, pedidos, reseñas, mensajería. / REST API.
+Byemi	PWA en producción para control de ingresos de un salón. / Production PWA for salon income.
+ChapiTag	Identificación de mascotas con NFC. / NFC pet ID.
+<br/>
+> stats.log
